@@ -6,7 +6,7 @@
 
 //used pins
 #define forward_s A2
-#define fine_right_s A3
+#define fine_right_s  A3
 #define fine_left_s A1
 #define right_s A4
 #define left_s A0
